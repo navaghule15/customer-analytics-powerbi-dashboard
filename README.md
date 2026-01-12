@@ -45,6 +45,7 @@ Organizations often struggle to understand customer distribution, value segments
 
 ### Customer Segmentation
 ![Segmentation](images/gender_female_segmentation.png)
+![Segmentation](images/gender_male_segmentation.png)
 
 ### Filters and Drill-Down
 ![Filters](screenshots/filters.png)
