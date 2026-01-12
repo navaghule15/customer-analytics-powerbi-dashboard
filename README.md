@@ -44,7 +44,7 @@ Organizations often struggle to understand customer distribution, value segments
 ![Customer Segmentation Dashboard](images/Overview.png)
 
 ### Customer Segmentation
-![Segmentation](images/Femalewisesegmentation.png)
+![Segmentation](images/Malewisesegmentation.png)
 
 ### Filters and Drill-Down
 ![Filters](screenshots/filters.png)
