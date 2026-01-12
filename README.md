@@ -41,7 +41,7 @@ Organizations often struggle to understand customer distribution, value segments
 ## Dashboard Output
 
 ### Overview Dashboard
-!(images/dashboard.png)
+![Customer Segmentation Dashboard](images/Overview.png)
 
 ### Customer Segmentation
 ![Segmentation](screenshots/segmentation.png)
