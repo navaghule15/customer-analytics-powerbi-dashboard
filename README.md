@@ -41,7 +41,7 @@ Organizations often struggle to understand customer distribution, value segments
 ## Dashboard Output
 
 ### Overview Dashboard
-![customer-analytics-powerbi-dashboard/tree/main](images/dashboard.png)
+!(images/dashboard.png)
 
 ### Customer Segmentation
 ![Segmentation](screenshots/segmentation.png)
