@@ -3,6 +3,22 @@
 ## Brief One-Line Summary
 Interactive Power BI dashboard analyzing customer demographics and financial behavior to support data-driven customer segmentation and business decisions.
 
+## 📌 Table of Contents
+- <a href="#overview">Overview</a>
+- <a href="#business-problem">Problem Statement</a>
+- <a href="#dataset">Dataset</a>
+- <a href="#tools--technologies">Tools & Technologies</a>
+- <a href="#project-structure">Project Structure</a>
+- <a href="#data-cleaning--preparation">Data Cleaning & Preparation</a>
+- <a href="#exploratory-data-analysis-eda">Exploratory Data Analysis (EDA)</a>
+- <a href="#research-questions--key-findings">Research Questions & Key Findings</a>
+- <a href="#dashboard">Dashboard</a>
+- <a href="#how-to-run-this-project">How to Run This Project</a>
+- <a href="#final-recommendations">Final Recommendations</a>
+- <a href="#author--contact">Author & Contact</a>
+
+<h2><a class="anchor" id="overview"></a>Overview</h2>
+
 ## Overview
 This project showcases a Power BI dashboard built on a dataset of 5,000 customer records. The objective is to analyze demographic, geographic, and financial attributes and segment customers using meaningful business dimensions.
 
