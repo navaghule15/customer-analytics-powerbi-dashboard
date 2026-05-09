@@ -15,8 +15,8 @@ Interactive Power BI dashboard analyzing customer demographics and financial beh
 - <a href="#how-to-view-this-project">How to View This Project</a>
 - <a href="#Results--Conclusion">Results & Conclusion</a>
 - <a href="#how-to-run-this-project">How to Run This Project</a>
-- <a href="#final-recommendations">Final Recommendations</a>
-- <a href="#author--contact">Author & Contact</a>
+- <a href="#future-work">Future Work</a>
+- <a href="#author-and-contact">Author and Contact</a>
 
 <h2><a class="anchor" id="overview"></a>Overview</h2>
 
@@ -81,12 +81,12 @@ Gender wise Male
 <h2><a class="anchor" id="Results--Conclusion"></a>Results & Conclusion</h2>
 The dashboard provides clear visibility into customer segments, enabling better business decisions related to customer engagement, targeting, and value optimization.
 
-## Future Work
+<h2><a class="anchor" id="future-work"></a>Future Work</h2>
 - Add churn or profitability metrics
 - Integrate time-based trends
 - Deploy dashboard via Power BI Service
 
-## Author and Contact
+<h2><a class="anchor" id="author-and-contact"></a>Author and Contact</h2>
 **Navanath Ghule**  
 Business Excellence | Analytics | Power BI  
 GitHub: https://github.com/navaghule15
