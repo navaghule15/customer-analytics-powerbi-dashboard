@@ -25,7 +25,7 @@ This project showcases a Power BI dashboard built on a dataset of 5,000 customer
 
 Organizations often struggle to understand customer distribution, value segments, and demographic patterns. This project aims to convert raw customer data into actionable insights for better customer targeting and strategic planning.
 
-## Dataset
+<h2><a class="anchor" id="Dataset"></a>Dataset</h2>
 - 5,000 customer records
 - Attributes include:
   - Age
