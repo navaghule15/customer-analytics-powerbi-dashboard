@@ -12,7 +12,7 @@ Interactive Power BI dashboard analyzing customer demographics and financial beh
 - <a href="#Key-Insights">Key Insights</a>
 - <a href="#Overview-Dashboard">Overview Dashboard</a>
 - <a href="#Customer-Segmentation">Customer Segmentation</a>
-- <a href="#Results--Conclusion">Results and Conclusion</a>
+- <a href="#Results--Conclusion">Results & Conclusion</a>
 - <a href="#how-to-run-this-project">How to Run This Project</a>
 - <a href="#final-recommendations">Final Recommendations</a>
 - <a href="#author--contact">Author & Contact</a>
@@ -77,7 +77,7 @@ Gender wise Male
 2. Interact with visuals conceptually via filters shown
 3. Power BI file not shared due to size/privacy constraints
 
-<h2><a class="anchor" id="Results--Conclusion"></a>Results and Conclusion</h2>
+<h2><a class="anchor" id="Results--Conclusion"></a>Results & Conclusion</h2>
 The dashboard provides clear visibility into customer segments, enabling better business decisions related to customer engagement, targeting, and value optimization.
 
 ## Future Work
