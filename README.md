@@ -37,7 +37,7 @@ Organizations often struggle to understand customer distribution, value segments
   - Age bins
   - Balance bands
 
-<h2><a class="anchor" id="Tools and Technologies"></a>Tools and Technologies</h2>
+<h2><a class="anchor"id="Tools and Technologies"></a>Tools and Technologies</h2>
 - Power BI
 - Microsoft Excel / CSV
 - Data Modeling and DAX (basic measures)
