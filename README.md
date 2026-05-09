@@ -5,7 +5,7 @@ Interactive Power BI dashboard analyzing customer demographics and financial beh
 
 ## 📌 Table of Contents
 - <a href="#overview">Overview</a>
-- <a href="#problem-statement">problem-statement</a>
+- <a href="#Problem-statement">problem-statement</a>
 - <a href="#dataset">Dataset</a>
 - <a href="#Tools and Technologies">Tools & Technologies</a>
 - <a href="#project-structure">Project Structure</a>
