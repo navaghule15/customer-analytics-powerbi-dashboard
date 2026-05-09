@@ -12,7 +12,7 @@ Interactive Power BI dashboard analyzing customer demographics and financial beh
 - <a href="#Key-Insights">Key Insights</a>
 - <a href="#Overview-Dashboard">Overview Dashboard</a>
 - <a href="#Customer-Segmentation">Customer Segmentation</a>
-  <a href="#how-to-view-this-project">How to View This Project</a>
+- <a href="#how-to-view-this-project">How to View This Project</a>
 - <a href="#Results--Conclusion">Results & Conclusion</a>
 - <a href="#how-to-run-this-project">How to Run This Project</a>
 - <a href="#final-recommendations">Final Recommendations</a>
