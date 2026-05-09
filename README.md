@@ -21,7 +21,7 @@ Interactive Power BI dashboard analyzing customer demographics and financial beh
 
 This project showcases a Power BI dashboard built on a dataset of 5,000 customer records. The objective is to analyze demographic, geographic, and financial attributes and segment customers using meaningful business dimensions.
 
-<h2><a class="anchor" id="Problem Statement"></a>Problem Statement</h2>
+<h2><a class="anchor" id="problem-statement"></a>Problem Statement</h2>
 
 Organizations often struggle to understand customer distribution, value segments, and demographic patterns. This project aims to convert raw customer data into actionable insights for better customer targeting and strategic planning.
 
