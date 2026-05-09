@@ -10,7 +10,7 @@ Interactive Power BI dashboard analyzing customer demographics and financial beh
 - <a href="#Tools--Technologies">Tools & Technologies</a>
 - <a href="#Methods">Methods</a>
 - <a href="#Key-Insights">Key Insights</a>
-- <a href="#exploratory-data-analysis-eda">Exploratory Data Analysis (EDA)</a>
+- <a href="#Overview-Dashboar">Overview Dashboar</a>
 - <a href="#research-questions--key-findings">Research Questions & Key Findings</a>
 - <a href="#dashboard">Dashboard</a>
 - <a href="#how-to-run-this-project">How to Run This Project</a>
@@ -56,7 +56,7 @@ Organizations often struggle to understand customer distribution, value segments
 
 ## Dashboard Output
 
-### Overview Dashboard
+ <h2><a class="anchor" id="Overview-Dashboar"></a>Overview Dashboar</h2>
 ![Customer Segmentation Dashboard](images/Overview.png)
 
 ### Customer Segmentation
