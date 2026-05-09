@@ -8,7 +8,7 @@ Interactive Power BI dashboard analyzing customer demographics and financial beh
 - <a href="#Problem-statement">Problem-statement</a>
 - <a href="#dataset">Dataset</a>
 - <a href="#Tools and Technologies">Tools & Technologies</a>
-- <a href="#project-structure">Project Structure</a>
+- <a href="#Methods">Methodse</a>
 - <a href="#data-cleaning--preparation">Data Cleaning & Preparation</a>
 - <a href="#exploratory-data-analysis-eda">Exploratory Data Analysis (EDA)</a>
 - <a href="#research-questions--key-findings">Research Questions & Key Findings</a>
@@ -37,12 +37,12 @@ Organizations often struggle to understand customer distribution, value segments
   - Age bins
   - Balance bands
 
-<h2><a class="anchor" id="Tools and Technologies"></a>Tools and Technologies</h2>
+<h2><a class="anchor" id="Tools and Technologies"></a>Tools and Technologies</h2> 
 - Power BI
 - Microsoft Excel / CSV
 - Data Modeling and DAX (basic measures)
 
-## Methods
+<h2><a class="anchor" id="Methods"></a>Methods</h2>
 - Data cleaning and preparation
 - Creation of age and balance bins
 - Interactive slicers and filters
